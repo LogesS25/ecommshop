@@ -24,7 +24,7 @@ const ProductDetails = ({ product, products }) => {
                     {<div className="small-images-container">
                         {image?.map((item, i) => (
                             <img
-                                key={item}
+                                key={i}
                                 src={UrlFor(item)}
                                 //dynamic class name
                                 className={i === index ? 'small-image selected-image' : 'small-image'}
