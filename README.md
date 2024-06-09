@@ -1,7 +1,7 @@
 # ecommshop
 An Ecommerce website built using NextJS, Sanity and Stripe.
 
-![Uploading HomePage Screenshot.png…]()
+<img width="959" alt="HomePage Screenshot" src="https://github.com/LogesS25/ecommshop/assets/122730945/ca1b0bcd-3dba-4d5a-969b-f8102d780235">
 
 
 Our website is built using ReactJS, offering a seamless and intuitive user experience. Whether you're a tech enthusiast, a fashionista, or a home decor aficionado, we've got something for everyone.
